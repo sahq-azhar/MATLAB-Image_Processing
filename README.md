@@ -6,6 +6,15 @@ The code is rather outdated. However, I am still publishing this for future refe
 [![View MATLAB-Image Processing on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://in.mathworks.com/matlabcentral/fileexchange/99884-matlab-image-processing)
 
 
+<table>
+  <tr>
+<td><img src="https://i.ibb.co/FzQd9qV/Capture-pink.jpg" alt="Capture-pink" border="0"  width="800">
+
+
+</tr>
+</table>
+<br>
+
 ## Issues
 These functions are slow and time-consuming; any alternative would be greatly appreciated. [#1]( https://github.com/sahq-azhar/MATLAB-Image_Processing/issues/1)
 #### Slider Callback Function for saving in [jumma.m](https://github.com/sahq-azhar/MATLAB-Image_Processing/blob/0d2d4a87f790af99a2afabff9eb14113adf14b26/2017/1_Getting%20HSV%20values%20from%20slider-GUI/jumma.m#L84-L88)
