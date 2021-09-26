@@ -6,7 +6,7 @@ The code is rather outdated. However, I am still publishing this for future refe
 
 
 
-
+https://github.com/sahq-azhar/MATLAB-Image_Processing/blob/0d2d4a87f790af99a2afabff9eb14113adf14b26/2017/1_Getting%20HSV%20values%20from%20slider-GUI/jumma.m#L84-L88
 
 
 
