@@ -7,9 +7,11 @@ The code is rather outdated. However, I am still publishing this for future refe
 
 
 ## Issues
+These functions are slow and time-consuming; any alternative would be greatly appreciated. #1
+#### Slider Callback Function for saving in [jumma.m](https://github.com/sahq-azhar/MATLAB-Image_Processing/blob/0d2d4a87f790af99a2afabff9eb14113adf14b26/2017/1_Getting%20HSV%20values%20from%20slider-GUI/jumma.m#L84-L88)
 
-#### Slider Callback Function
-[jumma.m](https://github.com/sahq-azhar/MATLAB-Image_Processing/blob/0d2d4a87f790af99a2afabff9eb14113adf14b26/2017/1_Getting%20HSV%20values%20from%20slider-GUI/jumma.m#L84-L88)
+The following code retrieves values from the GUI Slider and passes them to the corresponding HSV values in the link.m file. <br>
+save function saves the value of the slider in a .txt file that can be called in the other .m file <br>
 ```matlab
 h1=get(handles.slider1,'value');
 set(handles.edit1,'string',h1);
@@ -17,9 +19,15 @@ set(handles.edit1,'string',h1);
 % print h1
 save ('h1.txt','h1','-ascii')
 ```
-This code retrieves values from the GUI Slider and passes them to the corresponding HSV values in the link.m file. <br>
-save function saves the value of the slider in a .txt file that can be called in the other .m file <br>
-This function is slow and time-consuming; any alternative would be greatly appreciated.
+
+
+
+#### Load in [link.m](https://github.com/sahq-azhar/MATLAB-Image_Processing/blob/210f26366a2d4df259afa53062949875da368dc5/2017/1_Getting%20HSV%20values%20from%20slider-GUI/link.m#L11-L12)
+This takes the value from the.txt file into the appropriate variable.
+```matlab
+u1=load('h1.txt')
+hueThresholdLow=u1;
+```
 
 
 
