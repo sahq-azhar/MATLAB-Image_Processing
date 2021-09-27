@@ -1,6 +1,6 @@
 <h1 align='center'> Image Processing Using MATLAB  <img height="38"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"> </h1> <br>
 
-##  v.2017.1.0.0 
+
 
 This repository contains image processing code. The codes are designed to recognise objects using HSV values from real-time video data. The GUI is created using Guide.
 The code is rather outdated. However, I am still publishing this for future reference and developments. I accomplished this in 2017-2018, and there have been many improvements and optimizations since then. The new approach will be updated in the 2021 folder.
@@ -8,6 +8,9 @@ The code is rather outdated. However, I am still publishing this for future refe
 
 
 [![View MATLAB-Image Processing on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://in.mathworks.com/matlabcentral/fileexchange/99884-matlab-image-processing)
+
+
+##  v.2017.1.0.0 
 
 
 <table>
