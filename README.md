@@ -2,8 +2,7 @@
 
 
 
-This repository contains image processing code. The codes are designed to recognise objects using HSV values from real-time video data. The GUI is created using Guide.
-The code is rather outdated. However, I am still publishing this for future reference and developments. I accomplished this in 2017-2018, and there have been many improvements and optimizations since then. The new approach will be updated in the 2021 folder.
+This repository contains image processing code. The codes are designed to recognise objects using HSV values from real-time video data. 
 
 
 
@@ -12,6 +11,8 @@ The code is rather outdated. However, I am still publishing this for future refe
 
 ##  v.2017.1.0.0 
 
+The GUI is created using Guide.
+The code is rather outdated. However, I am still publishing this for future reference and developments. I accomplished this in 2017-2018, and there have been many improvements and optimizations since then. The new approach is updated in the 2021 folder.
 
 <table>
   <tr>
