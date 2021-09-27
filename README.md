@@ -20,7 +20,7 @@ The code is rather outdated. However, I am still publishing this for future refe
 
 </tr>
 </table>
-<br>
+
 
 ## Issues
 These functions are slow and time-consuming; any alternative would be greatly appreciated. <br>
