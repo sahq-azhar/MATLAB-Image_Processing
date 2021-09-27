@@ -50,6 +50,19 @@ hueThresholdLow=u1;
 
 ##  v.2021.1.0.0 
 
+This is an improvement over the previous version, that used guide to generate the gui and the remaining processing functions were executed in a separate .m file.
+It took a long time and was out of date.
+This method makes use of app designer to create a matlab app, and there is no need for another .m file to process and display the image.
+
+<table>
+  <tr>
+<td><img src="https://i.ibb.co/zPW3DGh/1.jpg" alt="1" border="0"  width="800">
+
+
+</tr>
+</table>
+
+
 ----------------------------------------------
 
 **⭐ The repo**
