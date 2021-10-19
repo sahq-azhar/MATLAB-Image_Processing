@@ -18,7 +18,6 @@ The code is rather outdated. However, I am still publishing this for future refe
   <tr>
 <td><img src="https://i.ibb.co/FzQd9qV/Capture-pink.jpg" alt="Capture-pink" border="0"  width="800">
 
-
 </tr>
 </table>
 
