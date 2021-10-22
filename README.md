@@ -58,10 +58,8 @@ This method makes use of app designer to create a matlab app, and there is no ne
   <tr>
 <td><img src="https://i.ibb.co/zPW3DGh/1.jpg" alt="1" border="0"  width="800">
 
-
 </tr>
 </table>
-
 
 ----------------------------------------------
 
